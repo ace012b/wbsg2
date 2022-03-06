@@ -1,0 +1,234 @@
+{
+  "world": {
+    "width": 360,
+    "height": 4920
+      
+  },
+  "spawner": {
+    "interval": 5500,
+    "speed": 70,
+    "lifespan": 35000
+  },
+  "player": {
+    "x": 190,
+    "y": 1680
+  },
+  "goal": {
+    "x": 30,
+    "y": 65
+  },
+    "goal2": {
+    "x": 130,
+    "y": 1680
+  },
+	
+	  "goal3": {
+    "x": 345,
+    "y": 2.3
+  },
+	
+  "platforms": [{
+      "x": 0,
+      "y": 120,
+      "numTiles": 6,
+      "key": "block"
+    },
+                
+                {
+      "x": 265,
+      "y": 190,
+      "numTiles": 1,
+      "key": "block"
+    },
+				 {
+      "x": 238,
+      "y": 120,
+      "numTiles": 4,
+      "key": "block"
+    },
+				
+				{
+      "x": 330,
+      "y": 50,
+      "numTiles": 2,
+      "key": "block"
+    },
+          {
+      "x": 120,
+      "y": 220,
+      "numTiles": 15,
+      "key": "block"
+    },       
+                
+                
+                      {
+      "x": 0,
+      "y": 340,
+      "numTiles": 7,
+      "key": "block"
+    },       
+                
+                
+                
+     {
+      "x": 214,
+      "y": 460,
+      "numTiles": 14,
+      "key": "block"
+    },
+                		{
+      "x": 30,
+      "y": 461,
+      "numTiles": 1,
+      "key": "block"
+    },
+				
+				
+				
+                {
+      "x": 0,
+      "y": 580,
+      "numTiles": 6,
+      "key": "block"
+    },
+                
+                          {
+      "x": 194,
+      "y": 700,
+      "numTiles": 3,
+      "key": "block"
+    },
+                
+                {
+      "x": 338,
+      "y": 820,
+      "numTiles": 2,
+      "key": "block"
+    },
+                
+                
+                          {
+      "x": 222,
+      "y": 940,
+      "numTiles": 3,
+      "key": "block"
+						
+	},
+		
+                     {
+      "x": 95,
+      "y": 1060,
+      "numTiles": 1,
+      "key": "block"
+    },
+                
+                          {
+      "x": 234,
+      "y": 1180,
+      "numTiles": 1,
+      "key": "block"
+    },
+                
+                
+                
+                     {
+      "x": 100,
+      "y": 1300,
+      "numTiles": 3,
+      "key": "block"
+    },     
+                
+                
+                         {
+      "x": 250,
+      "y": 1420,
+      "numTiles": 2,
+      "key": "block"
+    }, 
+                
+        
+                
+                {
+      "x": 0,
+      "y": 1420,
+      "numTiles": 4,
+      "key": "block"
+    },
+                
+          
+                
+                
+                
+                
+                         {
+                             
+      "x": 100,
+      "y": 1540,
+      "numTiles": 12,
+      "key": "block"
+    }, 
+                
+                
+    
+                          {
+      "x": 0,
+      "y": 1660,
+      "numTiles": 6,
+      "key": "block"
+    },
+                      
+                
+    {
+      "x": 0,
+      "y": 1780,
+      "numTiles": 1,
+      "key": "ground"
+    }
+                
+                
+                
+                
+                
+                
+  ],
+  "fires": [
+    {
+      "x": 30,
+      "y": 291
+    },
+    {
+      "x": 297,
+      "y": 414
+    },
+	  {
+      "x": 184,
+      "y": 651
+    },
+	  
+      {
+      "x": 264,
+      "y": 892
+    },
+      {
+      "x": 88,
+      "y": 1251
+    },
+      
+      {
+      "x": 54,
+      "y": 1373
+    },
+      {
+      "x": 174,
+      "y": 1493
+    },
+      
+      
+     
+   
+    {
+      "x": 7,
+      "y": 1613
+    }
+  ]
+}
